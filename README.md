@@ -60,4 +60,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-name](mailto:your-email@example.com).
+For any inquiries or feedback, please contact [Bhaskar K](mailto:kbhaskar36@gmail.com).
