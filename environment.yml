@@ -2,3 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 
+name: RTGaming
+channels:
+  - defaults
+prefix: C:\Users\kbhas\anaconda3\envs\RTGaming
